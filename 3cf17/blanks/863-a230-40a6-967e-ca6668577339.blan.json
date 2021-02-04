@@ -1,74 +1,50 @@
 {
     "Ar36": {
-        "error": 0.000279749927240574,
+        "error": 0.00014208833213275293,
         "error_type": "",
-        "fit": "previous",
-        "references": [
-            {
-                "exclude": false,
-                "record_id": "bu-FC-J-13432"
-            }
-        ],
-        "value": 0.0037811291695467072
+        "fit": "mass_spec_reduced",
+        "references": "",
+        "reviewed": false,
+        "value": 0.004094236955392244
     },
     "Ar37": {
-        "error": 0.0048777920617346145,
+        "error": 0.001154409458982751,
         "error_type": "",
-        "fit": "previous",
-        "references": [
-            {
-                "exclude": false,
-                "record_id": "bu-FC-J-13432"
-            }
-        ],
-        "value": 0.023728152064552838
+        "fit": "mass_spec_reduced",
+        "references": "",
+        "reviewed": false,
+        "value": 0.021843887209976688
     },
     "Ar38": {
-        "error": 0.004616782927545966,
+        "error": 0.0012493271654248793,
         "error_type": "",
-        "fit": "previous",
-        "references": [
-            {
-                "exclude": false,
-                "record_id": "bu-FC-J-13432"
-            }
-        ],
-        "value": -0.004437595790849687
+        "fit": "mass_spec_reduced",
+        "references": "",
+        "reviewed": false,
+        "value": 0.011203452589440343
     },
     "Ar39": {
-        "error": 0.019429747008736575,
+        "error": 0.004034639155431011,
         "error_type": "",
-        "fit": "previous",
-        "references": [
-            {
-                "exclude": false,
-                "record_id": "bu-FC-J-13432"
-            }
-        ],
-        "value": 0.035253280356818496
+        "fit": "mass_spec_reduced",
+        "references": "",
+        "reviewed": false,
+        "value": 0.018608390249885896
     },
     "Ar40": {
-        "error": 0.015908522250617976,
+        "error": 0.015407542358246254,
         "error_type": "",
-        "fit": "previous",
-        "references": [
-            {
-                "exclude": false,
-                "record_id": "bu-FC-J-13432"
-            }
-        ],
-        "value": 0.7328643159610937
+        "fit": "mass_spec_reduced",
+        "references": "",
+        "reviewed": false,
+        "value": 0.7316301198203105
     },
     "Ar41": {
-        "error": 0.044301111609078195,
+        "error": 0.06913844916874881,
         "error_type": "",
-        "fit": "previous",
-        "references": [
-            {
-                "exclude": false,
-                "record_id": "bu-FC-J-13432"
-            }
-        ],
-        "value": -0.06646207530697196
+        "fit": "mass_spec_reduced",
+        "references": "",
+        "reviewed": false,
+        "value": 0.017056932282859715
     }
 }
